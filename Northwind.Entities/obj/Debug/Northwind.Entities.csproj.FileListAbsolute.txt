@@ -1,0 +1,6 @@
+C:\Users\Gokhan\source\repos\NLayeredApp\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\Gokhan\source\repos\NLayeredApp\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\Gokhan\source\repos\NLayeredApp\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan\source\repos\NLayeredApp\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\Gokhan\source\repos\NLayeredApp\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\Users\Gokhan\source\repos\NLayeredApp\Northwind.Entities\obj\Debug\Northwind.Entities.csprojAssemblyReference.cache
